@@ -1,0 +1,2 @@
+PyPDF2
+spacy==3.7.4
