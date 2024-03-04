@@ -14,7 +14,7 @@ The Advanced NLP PDF Summarizer is a cutting-edge tool designed to process and c
 
 ## Demo 🚀
 
-Check out the how it works on Hugging Face:          [Space](https://huggingface.co/spaces/zamal/Pdf-2-Summary).
+## Check out the how it works on Hugging Face:          [Space](https://huggingface.co/spaces/zamal/Pdf-2-Summary).
 
 ### Text Extraction and Preprocessing
 
