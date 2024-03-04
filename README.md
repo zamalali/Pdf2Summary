@@ -12,6 +12,10 @@ The Advanced NLP PDF Summarizer is a cutting-edge tool designed to process and c
 
 ## How It Works
 
+## Demo
+
+Check out the how it works on Hugging Face:          [Space](https://huggingface.co/spaces/zamal/Pdf-2-Summary).
+
 ### Text Extraction and Preprocessing
 
 The application begins by extracting text from the uploaded PDF document. It then preprocesses this text using spaCy, performing tokenization to break down the text into individual words and sentences, and lemmatization to reduce words to their base or dictionary form. This step is crucial for reducing complexity and focusing on the semantic meaning of the text.
